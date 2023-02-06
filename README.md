@@ -1,2 +1,2 @@
 # ncavasin.github.io
-To work as portfolio
+To be used as portfolio
